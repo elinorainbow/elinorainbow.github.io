@@ -22,6 +22,7 @@ var images = [
 
 var bg_image_index = 0;
 var bg_images = [
+	'C2.jpg',
 	'A1.jpg',
 	'A2.jpg',
 	'B1.jpg',
@@ -34,7 +35,6 @@ var bg_images = [
 'B8.jpg',
 'B9.jpg',
 'C.jpg',
-'C2.jpg',
 'D.jpg',
 'E.jpg',
 'F.jpg',
